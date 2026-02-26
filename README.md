@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jay%20Ahn&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%7C%20Hamburg,%20Germany&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jay%20Ahn&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%7C%20Gyeonggi-do,%20South%20Korea&descAlignY=55&descSize=18)
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 - 🏢 **CTO** building [**Gongzzang**](https://github.com/perfectory) — Korean Real Estate Tech Platform
 - 🏗️ Passionate about **DDD**, **CQRS**, and **Clean Architecture**
-- 🌍 Based in **Hamburg, Germany**
+- 🌍 Based in **Gyeonggi-do, South Korea**
 - 💡 Kotlin / Spring Boot / Next.js / PostgreSQL+PostGIS / LangChain
 - 🏭 Domains: Real Estate · Logistics · Healthcare · SaaS
 
